@@ -51,9 +51,9 @@
 
   <modules>
     <module>spoon-client</module>
-    <module>spoon-maven-plugin</module>
+    <!-- <module>spoon-maven-plugin</module> -->
     <module>spoon-runner</module>
-    <module>spoon-sample</module>
+    <!-- <module>spoon-sample</module> -->
   </modules>
 
   <dependencyManagement>
